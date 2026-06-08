@@ -18,7 +18,7 @@ Explore my case studies and technical documentation:
 * **Infrastructure:** AWS (Lambda), CI/CD Automation, Data ETL
 
 ### 🏗 Currently Building
-* **[Automated Color Monitor](https://github.com/joshuaratledge/color-monitor):** Python-based automation for real-time monitoring and alerting.
+* **[Color Monitor](https://github.com/jcratledge/color-monitor):** Python-based automation for real-time monitoring and alerting.
 * **Fitness PWA:** Progressive Web App for streamlined fitness tracking and data management.
 
 ---
