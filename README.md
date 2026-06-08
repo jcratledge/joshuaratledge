@@ -10,7 +10,7 @@
 
 ### 💼 Portfolio
 Explore my case studies and technical documentation: 
-[Joshua Ratledge Portfolio Hub](https://www.notion.so/jcratledge/Joshua-Ratledge-Portfolio-37922951a9ef80fcbd4fdc73a45a96f3)
+[Joshua Ratledge Portfolio Hub](https://jcratledge.notion.site/Python-Automated-Monitor-37922951a9ef8054b49bdd5837526157?source=copy_link)
 
 ### 🛠 Tech Stack
 * **Project Management:** Jira, Asana, Agile/Scrum, SDLC Governance
